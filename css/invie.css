@@ -136,6 +136,7 @@ body {
 
 .contacto img {
     display: block;
+    width: 380px;
 }
 
 .contacto strong {
